@@ -5,6 +5,6 @@ A gesture is a form of non verbal communication or non vocal communication in wh
 The general technique for hand gesture recognition involves a sequence of image
 processing steps. The first major step is image segmentation where the hand region is identified from the image. <br>
 
-First, the hand is detected using the background subtraction method and the result of hand detection is transformed to a binary image. Then, the fingers and palm are segmented so as to facilitate the finger recognition. Moreover, the fingers are detected and recognized. Last, hand gestures are recognized using a simple rule classifier.
+First, the hand is detected using the background subtraction method and the result of hand detection is transformed to a binary image. Then, the fingers and palm are segmented so as to facilitate the finger recognition. Moreover, the fingers are detected and recognized. 
 <br>
 The hand gesture is predicted according to the number and content of fingers detected.
